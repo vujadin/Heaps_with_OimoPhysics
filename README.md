@@ -8,4 +8,4 @@ https://github.com/saharan/OimoPhysics
 
 https://github.com/HeapsIO/heaps
 
-![alt text](https://github.com/vujadin/Away3D_with_OimoPhysics/blob/master/Screenshot_2.png?raw=true)
+![alt text](https://github.com/vujadin/Heaps_with_OimoPhysics/blob/master/Screenshot_2.png?raw=true)
